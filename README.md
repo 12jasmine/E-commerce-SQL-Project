@@ -1,10 +1,10 @@
 🛒 E-Commerce SQL Project
 
-This project is a full-fledged **SQL-based e-commerce database designed to simulate real-world online shopping operations. It includes everything from table creation to complex queries and views.
+The project **SQL-based e-commerce** database designed to simulate real-world online shopping operations. It includes everything from table creation to complex queries and views.
 
 ---
 
-## 📐 Entity Relationship Diagram (ERD)
+## Entity Relationship Diagram (ERD)
 
 The database includes:
 - Customers
@@ -16,7 +16,7 @@ The database includes:
 
 ---
 
-## 🧱 Schema Overview
+##  Schema Overview
 
 | Table         | Description                            |
 |---------------|----------------------------------------|
@@ -28,7 +28,7 @@ The database includes:
 
 ---
 
-## 🧪 Features and Highlights
+##  Features and Highlights
 
 - ✅ Normalized schema using foreign keys
 - 📊 SQL views for analytics like:
