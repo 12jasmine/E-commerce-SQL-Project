@@ -1,6 +1,6 @@
 🛒 E-Commerce SQL Project
 
-The project **SQL-based e-commerce** database designed to simulate real-world online shopping operations. It includes everything from table creation to complex queries and views.
+The project **SQL-based e-commerce** database designed to simulate the real-world online shopping operations. It includes everything from table creation to complex queries and views.
 
 ---
 
