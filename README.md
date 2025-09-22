@@ -12,7 +12,7 @@ The database includes:
 - Products
 - Order Items
 - Payments
-- Shipping
+
 
 ---
 
